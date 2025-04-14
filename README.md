@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Desenvolvedor em desenvolvimento🚀 <br><br><br>Sejam bem-vindos, eu sou desenvolvedor Full Stack com foco em Back-End e apaixonado por tecnologia.<br>Tenho entusiasmo em criar projetos do zero, aplicando na prática os conhecimentos adquiridos e explorando constantemente novos conceitos e tecnologias.<br>Meu objetivo é desenvolver soluções robustas, escaláveis e bem estruturadas, sempre buscando evolução contínua como desenvolvedor.<br><br>🎓 Graduando em Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara<br>💡 Apaixonado por resolver problemas com código limpo e eficiente<br>🔍 Focado em desenvolvimento back-end, criação de APIs e boas práticas de projeto<br>📈 Curioso por Clean Code, arquitetura de software e banco de dados</p>
+<p align="left">🚀 Desenvolvedor em desenvolvimento <br><br><br>Sejam bem-vindos, eu sou desenvolvedor Full Stack com foco em Back-End e apaixonado por tecnologia.<br>Tenho entusiasmo em criar projetos do zero, aplicando na prática os conhecimentos adquiridos e explorando constantemente novos conceitos e tecnologias.<br>Meu objetivo é desenvolver soluções robustas, escaláveis e bem estruturadas, sempre buscando evolução contínua como desenvolvedor.<br><br>🎓 Graduando em Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara<br>💡 Apaixonado por resolver problemas com código limpo e eficiente<br>🔍 Focado em desenvolvimento back-end, criação de APIs e boas práticas de projeto<br>📈 Curioso por Clean Code, arquitetura de software e banco de dados</p>
 
 ###
 
