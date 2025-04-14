@@ -58,10 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Estatisticas</h2>
 
 ###
