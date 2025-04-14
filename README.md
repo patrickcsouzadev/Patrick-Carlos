@@ -58,6 +58,16 @@
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2 align="left">Estatisticas</h2>
 
 ###
@@ -69,14 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick-Carlos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=great-gatsby&hide_border=false&order=2" height="97" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patrick-Carlos&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Patrick-Carlos/Patrick-Carlos/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -98,17 +100,3 @@
 </div>
 
 ###
-<!--
-**Patrick-Carlos/Patrick-Carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
